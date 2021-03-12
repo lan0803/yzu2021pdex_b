@@ -102,7 +102,7 @@ cout << "car's turn" << endl;
 //--------------------------
 
 /**
- * @brief CBMW class的簡易說明
+ * @brief CBMW class的簡易說明.
  *
  * 繼承CCAR
  * 新增function、增加功能、修改功能
