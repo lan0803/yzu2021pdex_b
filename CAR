@@ -57,7 +57,7 @@ CCAR::start();//scope operator
 //--------------------------
 int main(int argc, const char * argv[]) {
 CBMW bmw;
-// bmw.light=3;
+// bmw.light=3;.
 bmw.start();
 bmw.Abs();
 bmw.stop();
